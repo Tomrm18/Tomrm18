@@ -1,8 +1,3 @@
-### Hi there 👋 Welcome to my Github Profile, I'm Thomas.
+### Welcome to my Github Profile, I'm Tom.
 
-![](https://komarev.com/ghpvc/?username=tomrm18&color=blueviolet)
-
-![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomrm18&theme=tokyonight&show_icons=true)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomrm18&layout=compact&theme=tokyonight&langs_count=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomrm18&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
